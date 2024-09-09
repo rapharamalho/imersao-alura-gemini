@@ -27,7 +27,7 @@ Google Fonts: Para deixar nosso projeto estiloso com a fonte Chakra Petch.
 🌟 Como Utilizar
 Clone o repositório:
 
-git clone https://github.com/rapharamalho/imersao-alura-gemini.git
+git clone https://github.com/rramalhoo/imersao-alura-gemini.git
 
 Abra o arquivo index.html em seu navegador de preferência.
 Comece a digitar o nome da música do Travis Scott que você está procurando.
